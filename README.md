@@ -11,7 +11,7 @@ Make sure you have python and Node js installed on your system:
 
 - Clone the repository in a local folder
     ```sh
-    git clone https://github.com/fizaashraf37/smwa-project.git 
+    git clone https://github.com/loki-geek/bits-sms.git
     ```
 - Open terminal and verify python version
   ```sh
